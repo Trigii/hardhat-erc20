@@ -5,7 +5,7 @@ Create your own token in a manual or automatic way!
 ## Quickstart
 
 ```sh
-git clone
+git clone https://github.com/Trigii/hardhat-erc20.git
 cd hardhat-erc20
 yarn
 ```
